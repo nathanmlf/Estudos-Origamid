@@ -13,14 +13,14 @@
 	max-width: 360px;
 	margin: 0 auto;
 	display: flex;
-	border: 1px solid #ccc;
+	border: 1px solid black;
 }
 
 .item {
 	
 	flex: 1;
 	margin: 5px;
-	background: tomato;
+	background:chartreuse;
 	text-align: center;
 	font-size: 1.5em;
 }
