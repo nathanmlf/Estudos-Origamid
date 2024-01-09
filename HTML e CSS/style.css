@@ -1,0 +1,30 @@
+h1,
+a {
+  color: tomato;
+}
+
+p a {
+  color: yellowgreen;
+}
+
+#teste {
+  text-decoration: none;
+  color: cornflowerblue;
+}
+
+.gold {
+  color: gold;
+}
+
+h2 {
+  color: darkorange;
+  text-align: center;
+}
+
+.grande {
+  font-size: 32px;
+}
+
+.forte {
+  font-weight: bolder;
+}
